@@ -1,0 +1,232 @@
+2019-01-09 15:09:21.9459|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/api/owners/all  
+2019-01-09 15:09:22.0998|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "GetOwners", controller = "Owner"}. Executing action PetOwnerAPI.Controllers.OwnerController.GetOwners (PetOwnerAPI)
+2019-01-09 15:09:22.1135|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method PetOwnerAPI.Controllers.OwnerController.GetOwners (PetOwnerAPI) - Validation state: Valid
+2019-01-09 15:09:22.1181|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method PetOwnerAPI.Controllers.OwnerController.GetOwners (PetOwnerAPI), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 1.6531ms.
+2019-01-09 15:09:22.1181|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[PetOwnerAPI.Models.OwnerDto, PetOwnerAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2019-01-09 15:09:22.1757|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action PetOwnerAPI.Controllers.OwnerController.GetOwners (PetOwnerAPI) in 68.8105ms
+2019-01-09 15:09:22.1800|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 241.8034ms 200 application/json; charset=utf-8
+2019-01-09 15:09:48.4663|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/  
+2019-01-09 15:09:48.6203|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 161.278ms 200 
+2019-01-09 15:09:51.7557|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/favicon.ico  
+2019-01-09 15:09:51.7557|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/  
+2019-01-09 15:09:52.0042|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 255.4155ms 200 
+2019-01-09 15:09:52.0042|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 255.4239ms 200 
+2019-01-09 15:09:52.4651|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/favicon.ico  
+2019-01-09 15:09:52.4651|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 4.0108ms 200 
+2019-01-09 15:11:05.4793|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/api/owners/all  
+2019-01-09 15:11:05.5049|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "GetOwners", controller = "Owner"}. Executing action PetOwnerAPI.Controllers.OwnerController.GetOwners (PetOwnerAPI)
+2019-01-09 15:11:05.5245|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method PetOwnerAPI.Controllers.OwnerController.GetOwners (PetOwnerAPI) - Validation state: Valid
+2019-01-09 15:11:05.5245|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method PetOwnerAPI.Controllers.OwnerController.GetOwners (PetOwnerAPI), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 5.0758ms.
+2019-01-09 15:11:05.5451|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[PetOwnerAPI.Models.OwnerDto, PetOwnerAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2019-01-09 15:11:05.6037|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action PetOwnerAPI.Controllers.OwnerController.GetOwners (PetOwnerAPI) in 86.5481ms
+2019-01-09 15:11:05.6037|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 134.7305ms 200 application/json; charset=utf-8
+2019-01-09 16:12:54.4816|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/  
+2019-01-09 16:12:54.7219|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 247.6197ms 200 
+2019-01-09 16:12:55.2122|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/favicon.ico  
+2019-01-09 16:12:55.2122|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 5.0089ms 200 
+2019-01-09 16:13:11.3946|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/api/owners/all  
+2019-01-09 16:13:11.4280|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "GetOwners", controller = "Owner"}. Executing action PetOwnerAPI.Controllers.OwnerController.GetOwners (PetOwnerAPI)
+2019-01-09 16:13:11.4549|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method PetOwnerAPI.Controllers.OwnerController.GetOwners (PetOwnerAPI) - Validation state: Valid
+2019-01-09 16:13:11.4642|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method PetOwnerAPI.Controllers.OwnerController.GetOwners (PetOwnerAPI), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 2.0809ms.
+2019-01-09 16:13:11.4642|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[PetOwnerAPI.Models.OwnerDto, PetOwnerAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2019-01-09 16:13:11.5401|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action PetOwnerAPI.Controllers.OwnerController.GetOwners (PetOwnerAPI) in 98.0297ms
+2019-01-09 16:13:11.5401|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 152.6453ms 200 application/json; charset=utf-8
+2019-01-09 16:13:15.9132|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/api/owners/database  
+2019-01-09 16:13:16.1361|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Database", controller = "PetInfo"}. Executing action PetOwnerAPI.Controllers.PetInfoController.Database (PetOwnerAPI)
+2019-01-09 16:13:16.1633|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action PetOwnerAPI.Controllers.PetInfoController.Database (PetOwnerAPI) in 23.111ms
+2019-01-09 16:13:16.2475|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2019-01-09 16:13:16.3030|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 394.8011ms 500 text/html; charset=utf-8
+2019-01-09 16:13:45.5938|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/api/owners/database  
+2019-01-09 16:13:45.6046|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Database", controller = "PetInfo"}. Executing action PetOwnerAPI.Controllers.PetInfoController.Database (PetOwnerAPI)
+2019-01-09 16:13:45.6255|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action PetOwnerAPI.Controllers.PetInfoController.Database (PetOwnerAPI) in 18.3932ms
+2019-01-09 16:13:45.6255|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2019-01-09 16:13:45.6457|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 67.0294ms 500 text/html; charset=utf-8
+2019-01-09 16:14:02.0350|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/  
+2019-01-09 16:14:02.1969|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 168.8057ms 200 
+2019-01-09 16:14:02.6580|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/favicon.ico  
+2019-01-09 16:14:02.6580|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 1.1772ms 200 
+2019-01-09 16:14:06.4119|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/api/owners/database  
+2019-01-09 16:14:06.4778|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Database", controller = "PetInfo"}. Executing action PetOwnerAPI.Controllers.PetInfoController.Database (PetOwnerAPI)
+2019-01-09 16:14:06.4962|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action PetOwnerAPI.Controllers.PetInfoController.Database (PetOwnerAPI) in 12.7279ms
+2019-01-09 16:14:06.5206|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2019-01-09 16:14:06.5542|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 142.2879ms 500 text/html; charset=utf-8
+2019-01-09 16:14:28.6167|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/api/owners/database  
+2019-01-09 16:14:28.6177|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Database", controller = "PetInfo"}. Executing action PetOwnerAPI.Controllers.PetInfoController.Database (PetOwnerAPI)
+2019-01-09 16:14:28.6177|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action PetOwnerAPI.Controllers.PetInfoController.Database (PetOwnerAPI) in 1.0127ms
+2019-01-09 16:14:28.6177|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2019-01-09 16:14:28.6177|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 9.406ms 500 text/html; charset=utf-8
+2019-01-09 16:15:31.0907|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/api/owners/database  
+2019-01-09 16:15:31.2392|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Database", controller = "PetInfo"}. Executing action PetOwnerAPI.Controllers.PetInfoController.Database (PetOwnerAPI)
+2019-01-09 16:15:32.0509|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.2.1-servicing-10028 initialized 'OwnerPetsContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2019-01-09 16:15:42.3840|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (160ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+CREATE DATABASE [OwnerPets];
+2019-01-09 16:15:42.4293|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (44ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [OwnerPets] SET READ_COMMITTED_SNAPSHOT ON;
+END;
+2019-01-09 16:15:42.5656|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (6ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Owners] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(50) NOT NULL,
+    [Surname] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_Owners] PRIMARY KEY ([Id])
+);
+2019-01-09 16:15:42.5656|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [PetInfoDto] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(max) NULL,
+    [Type] nvarchar(max) NULL,
+    [Description] nvarchar(max) NULL,
+    [OwnerId] int NULL,
+    CONSTRAINT [PK_PetInfoDto] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_PetInfoDto_Owners_OwnerId] FOREIGN KEY ([OwnerId]) REFERENCES [Owners] ([Id]) ON DELETE NO ACTION
+);
+2019-01-09 16:15:42.5709|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [PetInfos] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(50) NOT NULL,
+    [Type] nvarchar(20) NOT NULL,
+    [Description] nvarchar(20) NOT NULL,
+    [OwnerID] int NOT NULL,
+    CONSTRAINT [PK_PetInfos] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_PetInfos_Owners_OwnerID] FOREIGN KEY ([OwnerID]) REFERENCES [Owners] ([Id]) ON DELETE CASCADE
+);
+2019-01-09 16:15:42.5709|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE INDEX [IX_PetInfoDto_OwnerId] ON [PetInfoDto] ([OwnerId]);
+2019-01-09 16:15:42.5709|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE INDEX [IX_PetInfos_OwnerID] ON [PetInfos] ([OwnerID]);
+2019-01-09 16:15:42.5709|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method PetOwnerAPI.Controllers.PetInfoController.Database (PetOwnerAPI) - Validation state: Valid
+2019-01-09 16:15:42.5864|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method PetOwnerAPI.Controllers.PetInfoController.Database (PetOwnerAPI), returned result Microsoft.AspNetCore.Mvc.OkResult in 0.1939ms.
+2019-01-09 16:15:42.5864|INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing HttpStatusCodeResult, setting HTTP status code 200
+2019-01-09 16:15:42.5864|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action PetOwnerAPI.Controllers.PetInfoController.Database (PetOwnerAPI) in 11352.083ms
+2019-01-09 16:15:42.6103|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 11526.698ms 200 
+2019-01-09 16:17:29.7478|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/  
+2019-01-09 16:17:29.8941|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 153.4597ms 200 
+2019-01-09 16:17:30.3560|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/favicon.ico  
+2019-01-09 16:17:30.3560|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 2.287ms 200 
+2019-01-09 16:17:34.7672|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/api/owners/database  
+2019-01-09 16:17:34.8034|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Database", controller = "PetInfo"}. Executing action PetOwnerAPI.Controllers.PetInfoController.Database (PetOwnerAPI)
+2019-01-09 16:17:35.6084|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.2.1-servicing-10028 initialized 'OwnerPetsContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2019-01-09 16:17:45.9724|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (253ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+CREATE DATABASE [OwnerPets];
+2019-01-09 16:17:46.0171|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (43ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [OwnerPets] SET READ_COMMITTED_SNAPSHOT ON;
+END;
+2019-01-09 16:17:46.1836|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (6ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Owners] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(50) NOT NULL,
+    [Surname] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_Owners] PRIMARY KEY ([Id])
+);
+2019-01-09 16:17:46.1836|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [PetInfos] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(50) NOT NULL,
+    [Type] nvarchar(20) NOT NULL,
+    [Description] nvarchar(20) NOT NULL,
+    CONSTRAINT [PK_PetInfos] PRIMARY KEY ([Id])
+);
+2019-01-09 16:17:46.1836|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [PetInfoDto] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(max) NULL,
+    [Type] nvarchar(max) NULL,
+    [Description] nvarchar(max) NULL,
+    [OwnerId] int NULL,
+    CONSTRAINT [PK_PetInfoDto] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_PetInfoDto_Owners_OwnerId] FOREIGN KEY ([OwnerId]) REFERENCES [Owners] ([Id]) ON DELETE NO ACTION
+);
+2019-01-09 16:17:46.1836|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE INDEX [IX_PetInfoDto_OwnerId] ON [PetInfoDto] ([OwnerId]);
+2019-01-09 16:17:46.2013|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method PetOwnerAPI.Controllers.PetInfoController.Database (PetOwnerAPI) - Validation state: Valid
+2019-01-09 16:17:46.2013|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method PetOwnerAPI.Controllers.PetInfoController.Database (PetOwnerAPI), returned result Microsoft.AspNetCore.Mvc.OkResult in 0.2108ms.
+2019-01-09 16:17:46.2013|INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing HttpStatusCodeResult, setting HTTP status code 200
+2019-01-09 16:17:46.2137|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action PetOwnerAPI.Controllers.PetInfoController.Database (PetOwnerAPI) in 11405.1973ms
+2019-01-09 16:17:46.2265|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 11459.5905ms 200 
+2019-01-09 16:34:14.9412|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/  
+2019-01-09 16:34:15.0974|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/api/owners/database  
+2019-01-09 16:34:15.3773|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 446.0299ms 200 
+2019-01-09 16:34:15.3921|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Database", controller = "PetInfo"}. Executing action PetOwnerAPI.Controllers.PetInfoController.Database (PetOwnerAPI)
+2019-01-09 16:34:15.9795|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/favicon.ico  
+2019-01-09 16:34:15.9795|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 3.4399ms 200 
+2019-01-09 16:34:16.5611|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.2.1-servicing-10028 initialized 'OwnerPetsContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2019-01-09 16:34:26.9377|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (212ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+CREATE DATABASE [OwnerPets];
+2019-01-09 16:34:26.9857|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (44ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [OwnerPets] SET READ_COMMITTED_SNAPSHOT ON;
+END;
+2019-01-09 16:34:27.1322|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (7ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2019-01-09 16:34:27.1408|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2019-01-09 16:34:27.1408|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2019-01-09 16:34:27.1644|INFO|Microsoft.EntityFrameworkCore.Migrations|Applying migration '20190109142918_OwnerBDFirstMigration'.
+2019-01-09 16:34:27.2668|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Owners] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(50) NOT NULL,
+    [Surname] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_Owners] PRIMARY KEY ([Id])
+);
+2019-01-09 16:34:27.2668|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [PetInfos] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(50) NOT NULL,
+    [Type] nvarchar(20) NOT NULL,
+    [Description] nvarchar(20) NOT NULL,
+    CONSTRAINT [PK_PetInfos] PRIMARY KEY ([Id])
+);
+2019-01-09 16:34:27.2764|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [PetInfoDto] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(max) NULL,
+    [Type] nvarchar(max) NULL,
+    [Description] nvarchar(max) NULL,
+    [OwnerId] int NULL,
+    CONSTRAINT [PK_PetInfoDto] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_PetInfoDto_Owners_OwnerId] FOREIGN KEY ([OwnerId]) REFERENCES [Owners] ([Id]) ON DELETE NO ACTION
+);
+2019-01-09 16:34:27.2764|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE INDEX [IX_PetInfoDto_OwnerId] ON [PetInfoDto] ([OwnerId]);
+2019-01-09 16:34:27.2764|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20190109142918_OwnerBDFirstMigration', N'2.2.1-servicing-10028');
+2019-01-09 16:34:27.3041|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method PetOwnerAPI.Controllers.PetInfoController.Database (PetOwnerAPI) - Validation state: Valid
+2019-01-09 16:34:27.3102|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method PetOwnerAPI.Controllers.PetInfoController.Database (PetOwnerAPI), returned result Microsoft.AspNetCore.Mvc.OkResult in 0.4124ms.
+2019-01-09 16:34:27.3102|INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing HttpStatusCodeResult, setting HTTP status code 200
+2019-01-09 16:34:27.3269|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action PetOwnerAPI.Controllers.PetInfoController.Database (PetOwnerAPI) in 11923.7513ms
+2019-01-09 16:34:27.3269|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 12239.2072ms 200 
+2019-01-09 16:44:27.5471|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/  
+2019-01-09 16:44:27.7104|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 172.9241ms 200 
+2019-01-09 16:44:28.2178|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/favicon.ico  
+2019-01-09 16:44:28.2178|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 1.0873ms 200 
+2019-01-09 16:44:35.3918|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:52908/api/owners/database  
+2019-01-09 16:44:35.4284|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Database", controller = "PetInfo"}. Executing action PetOwnerAPI.Controllers.PetInfoController.Database (PetOwnerAPI)
+2019-01-09 16:44:36.2135|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 2.2.1-servicing-10028 initialized 'OwnerPetsContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2019-01-09 16:44:36.2998|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (5ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2019-01-09 16:44:36.2998|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2019-01-09 16:44:36.3206|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2019-01-09 16:44:36.3360|INFO|Microsoft.EntityFrameworkCore.Migrations|No migrations were applied. The database is already up to date.
+2019-01-09 16:44:36.3360|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method PetOwnerAPI.Controllers.PetInfoController.Database (PetOwnerAPI) - Validation state: Valid
+2019-01-09 16:44:36.3360|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method PetOwnerAPI.Controllers.PetInfoController.Database (PetOwnerAPI), returned result Microsoft.AspNetCore.Mvc.OkResult in 0.2694ms.
+2019-01-09 16:44:36.3539|INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing HttpStatusCodeResult, setting HTTP status code 200
+2019-01-09 16:44:36.3539|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action PetOwnerAPI.Controllers.PetInfoController.Database (PetOwnerAPI) in 924.6022ms
+2019-01-09 16:44:36.3674|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 975.5673ms 200 

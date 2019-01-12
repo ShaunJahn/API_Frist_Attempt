@@ -1,0 +1,15 @@
+C:\Users\mrjsh\Desktop\Pets\PetOwnerAPI\PetOwnerAPI\bin\Debug\netcoreapp2.2\NLog.config
+C:\Users\mrjsh\Desktop\Pets\PetOwnerAPI\PetOwnerAPI\bin\Debug\netcoreapp2.2\PetOwnerAPI.deps.json
+C:\Users\mrjsh\Desktop\Pets\PetOwnerAPI\PetOwnerAPI\bin\Debug\netcoreapp2.2\PetOwnerAPI.runtimeconfig.json
+C:\Users\mrjsh\Desktop\Pets\PetOwnerAPI\PetOwnerAPI\bin\Debug\netcoreapp2.2\PetOwnerAPI.runtimeconfig.dev.json
+C:\Users\mrjsh\Desktop\Pets\PetOwnerAPI\PetOwnerAPI\bin\Debug\netcoreapp2.2\PetOwnerAPI.dll
+C:\Users\mrjsh\Desktop\Pets\PetOwnerAPI\PetOwnerAPI\bin\Debug\netcoreapp2.2\PetOwnerAPI.pdb
+C:\Users\mrjsh\Desktop\Pets\PetOwnerAPI\PetOwnerAPI\obj\Debug\netcoreapp2.2\PetOwnerAPI.csproj.CoreCompileInputs.cache
+C:\Users\mrjsh\Desktop\Pets\PetOwnerAPI\PetOwnerAPI\obj\Debug\netcoreapp2.2\PetOwnerAPI.RazorAssemblyInfo.cache
+C:\Users\mrjsh\Desktop\Pets\PetOwnerAPI\PetOwnerAPI\obj\Debug\netcoreapp2.2\PetOwnerAPI.RazorAssemblyInfo.cs
+C:\Users\mrjsh\Desktop\Pets\PetOwnerAPI\PetOwnerAPI\obj\Debug\netcoreapp2.2\PetOwnerAPI.AssemblyInfoInputs.cache
+C:\Users\mrjsh\Desktop\Pets\PetOwnerAPI\PetOwnerAPI\obj\Debug\netcoreapp2.2\PetOwnerAPI.AssemblyInfo.cs
+C:\Users\mrjsh\Desktop\Pets\PetOwnerAPI\PetOwnerAPI\obj\Debug\netcoreapp2.2\PetOwnerAPI.RazorTargetAssemblyInfo.cache
+C:\Users\mrjsh\Desktop\Pets\PetOwnerAPI\PetOwnerAPI\obj\Debug\netcoreapp2.2\PetOwnerAPI.dll
+C:\Users\mrjsh\Desktop\Pets\PetOwnerAPI\PetOwnerAPI\obj\Debug\netcoreapp2.2\PetOwnerAPI.pdb
+C:\Users\mrjsh\Desktop\Pets\PetOwnerAPI\PetOwnerAPI\obj\Debug\netcoreapp2.2\PetOwnerAPI.csprojAssemblyReference.cache
